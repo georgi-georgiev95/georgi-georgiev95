@@ -1,6 +1,6 @@
 ### Hi, I am Georgi Georgiev! 👋
 
-- 🌱 I’m currently learning the fundamentals of JavaScript
+- 🌱 I’m currently learning the fundamentals of JavaScript!
 
 [![Facebook](https://img.shields.io/badge/-Facebook-00B2FF?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/georgi.georgiev.1656854/)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com) 
