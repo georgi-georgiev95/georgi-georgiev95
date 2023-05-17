@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgi-georgiev95" alt="georgi-georgiev95" /></a> </p>
 
-- 🌱 I’m currently learning **Software engineering at SoftUni.**
+- 🌱 I’m currently learning **Software engineering @ SoftUni.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
