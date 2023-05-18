@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgi Georgiev</h1>
-<h3 align="center">A passionate front-end developer from Bulgaria.</h3>
+<h3 align="center">A learning front-end developer from Bulgaria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgi-georgiev95&label=Profile%20views&color=0e75b6&style=flat" alt="georgi-georgiev95" /> </p>
 
