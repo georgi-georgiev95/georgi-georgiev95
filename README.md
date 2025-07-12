@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgi-georgiev95" alt="georgi-georgiev95" /></a> </p>
 
-- Software Developer @ Devexperts <img width="10px" height="10px" alt="image" src="https://github.com/user-attachments/assets/6503f59d-8fe4-4445-b3f1-44fc68f8d493" /> **
+- Software Developer @ Devexperts Bulgaria
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
