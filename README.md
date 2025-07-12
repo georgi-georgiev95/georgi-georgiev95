@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Georgi Georgiev</h1>
-<h3 align="center">A learning front-end developer from Bulgaria.</h3>
+<h3 align="center">Front-end developer from Bulgaria.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgi-georgiev95&label=Profile%20views&color=0e75b6&style=flat" alt="georgi-georgiev95" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=georgi-georgiev95" alt="georgi-georgiev95" /></a> </p>
 
-- Software Developer @ Devexperts <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/6503f59d-8fe4-4445-b3f1-44fc68f8d493" />
-**
+- Software Developer @ Devexperts <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/6503f59d-8fe4-4445-b3f1-44fc68f8d493" /> **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
